@@ -1,0 +1,20 @@
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\bin\Debug\Proyecto de Descuentos.exe.config
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\bin\Debug\Proyecto de Descuentos.exe
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\bin\Debug\Proyecto de Descuentos.pdb
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\obj\Debug\Proyecto_de_Descuentos.Form1.resources
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\obj\Debug\Proyecto_de_Descuentos.Properties.Resources.resources
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.exe
+C:\Users\USUARIO\Documents\AAUniversidad\Desafío Pract. PRE\Proyecto de Descuentos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.pdb
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\bin\Debug\Proyecto de Descuentos.exe.config
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\bin\Debug\Proyecto de Descuentos.exe
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\bin\Debug\Proyecto de Descuentos.pdb
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.csproj.AssemblyReference.cache
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\obj\Debug\Proyecto_de_Descuentos.Form1.resources
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\obj\Debug\Proyecto_de_Descuentos.Properties.Resources.resources
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.csproj.GenerateResource.cache
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.exe
+C:\Users\abiga\Documents\Visual studio proyectos\Proyecto de Descuentos\obj\Debug\Proyecto de Descuentos.pdb

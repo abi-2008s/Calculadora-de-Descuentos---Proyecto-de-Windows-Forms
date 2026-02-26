@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEFC132-128C-45AA-9C15-93C099BB7B31}|Proyecto de Descuentos.csproj|c:\\users\\abiga\\documents\\visual studio proyectos\\proyecto de descuentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEFC132-128C-45AA-9C15-93C099BB7B31}|Proyecto de Descuentos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEFC132-128C-45AA-9C15-93C099BB7B31}|Proyecto de Descuentos.csproj|C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAEFC132-128C-45AA-9C15-93C099BB7B31}|Proyecto de Descuentos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAEFC132-128C-45AA-9C15-93C099BB7B31}|Proyecto de Descuentos.csproj|C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAEFC132-128C-45AA-9C15-93C099BB7B31}|Proyecto de Descuentos.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T00:16:14.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADwAAAAAzO9qRRkuwGUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:07:04.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\abiga\\Documents\\Visual studio proyectos\\Proyecto de Descuentos\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T21:10:29.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
